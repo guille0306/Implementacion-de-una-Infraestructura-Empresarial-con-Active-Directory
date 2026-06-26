@@ -45,6 +45,7 @@ Se instala Windows Server 2022 en una máquina virtual configurando los recursos
 ### Configuración de Active Directory
 
 Se instala el rol **Active Directory Domain Services (AD DS)** y se promociona el servidor a controlador de dominio, creando un nuevo bosque y configurando el servicio DNS para la resolución de nombres del dominio.
+<img width="813" height="303" alt="image" src="https://github.com/user-attachments/assets/dd1df56f-d955-4c90-99c0-98e586aed8bb" />
 
 ---
 
