@@ -116,7 +116,7 @@ Se configura Windows Server Backup para realizar copias de seguridad automática
 ### Automatización mediante PowerShell
 
 Se desarrolla un script en PowerShell que permite crear automáticamente usuarios en Active Directory a partir de un archivo CSV, agilizando el proceso de incorporación de nuevos empleados.
+<img width="656" height="351" alt="image" src="https://github.com/user-attachments/assets/ba5f990e-3dd8-42ee-93bd-5b8b0f308709" />
 
-![Uploading image.png…]()
 
 ---
