@@ -45,7 +45,7 @@ Se instala Windows Server 2022 en una máquina virtual configurando los recursos
 ### Configuración de Active Directory
 
 Se instala el rol **Active Directory Domain Services (AD DS)** y se promociona el servidor a controlador de dominio, creando un nuevo bosque y configurando el servicio DNS para la resolución de nombres del dominio.
-<img width="813" height="303" alt="image" src="https://github.com/user-attachments/assets/dd1df56f-d955-4c90-99c0-98e586aed8bb" />
+<img width="656" height="351" alt="image" src="https://github.com/user-attachments/assets/dd1df56f-d955-4c90-99c0-98e586aed8bb" />
 
 ---
 
@@ -53,7 +53,7 @@ Se instala el rol **Active Directory Domain Services (AD DS)** y se promociona e
 
 Se crean las diferentes Unidades Organizativas (OU), grupos de seguridad y usuarios correspondientes a cada departamento de la empresa, facilitando una administración centralizada de todos los recursos.
 
-<img width="593" height="328" alt="image" src="https://github.com/user-attachments/assets/0d6425f5-dc05-4778-847d-aab00cda9197" />
+<img width="656" height="351" alt="image" src="https://github.com/user-attachments/assets/0d6425f5-dc05-4778-847d-aab00cda9197" />
 
 ---
 
@@ -61,7 +61,7 @@ Se crean las diferentes Unidades Organizativas (OU), grupos de seguridad y usuar
 
 Se implementan diferentes políticas de grupo adaptadas a cada departamento, restringiendo el acceso a determinadas herramientas administrativas, bloqueando dispositivos USB y limitando la ejecución de aplicaciones como CMD, PowerShell o el Editor del Registro cuando sea necesario.
 
-<img width="311" height="280" alt="image" src="https://github.com/user-attachments/assets/e46d5c02-b201-47e1-bd0c-7cefd8502611" />
+<img width="656" height="351" alt="image" src="https://github.com/user-attachments/assets/e46d5c02-b201-47e1-bd0c-7cefd8502611" />
 
 ---
 
@@ -69,7 +69,7 @@ Se implementan diferentes políticas de grupo adaptadas a cada departamento, res
 
 Se configuran reglas de entrada y salida para proteger los servicios de la empresa, permitiendo únicamente las conexiones necesarias y bloqueando accesos no autorizados.
 
-<img width="687" height="394" alt="image" src="https://github.com/user-attachments/assets/bf03fb37-93b9-4861-9f32-c99304cf2849" />
+<img width="656" height="351" alt="image" src="https://github.com/user-attachments/assets/bf03fb37-93b9-4861-9f32-c99304cf2849" />
 
 ---
 
@@ -77,7 +77,7 @@ Se configuran reglas de entrada y salida para proteger los servicios de la empre
 
 Se instala Malwarebytes como solución antivirus, habilitando la protección en tiempo real y configurando análisis automáticos para detectar y eliminar amenazas.
 
-<img width="840" height="298" alt="image" src="https://github.com/user-attachments/assets/ed837d1a-a9ef-4926-92d6-833d9e93e6c6" />
+<img width="656" height="351" alt="image" src="https://github.com/user-attachments/assets/ed837d1a-a9ef-4926-92d6-833d9e93e6c6" />
 
 ---
 
@@ -85,7 +85,7 @@ Se instala Malwarebytes como solución antivirus, habilitando la protección en 
 
 Se instala IIS junto con Application Request Routing (ARR) para configurar un proxy inverso encargado de recibir las solicitudes web y redirigirlas a los servicios internos correspondientes.
 
-<img width="1101" height="438" alt="image" src="https://github.com/user-attachments/assets/4c781b32-a47c-4347-aa35-1628d1d7e998" />
+<img width="656" height="351" alt="image" src="https://github.com/user-attachments/assets/4c781b32-a47c-4347-aa35-1628d1d7e998" />
 
 ---
 
@@ -93,7 +93,7 @@ Se instala IIS junto con Application Request Routing (ARR) para configurar un pr
 
 Se instala Windows Admin Center para administrar de forma remota toda la infraestructura, permitiendo supervisar servidores, ejecutar scripts de PowerShell y gestionar usuarios desde una única interfaz.
 
-<img width="291" height="193" alt="image" src="https://github.com/user-attachments/assets/ff4d3971-4b06-47d9-a446-c4666068e893" />
+<img width="656" height="351" alt="image" src="https://github.com/user-attachments/assets/ff4d3971-4b06-47d9-a446-c4666068e893" />
 
 ---
 
@@ -101,7 +101,7 @@ Se instala Windows Admin Center para administrar de forma remota toda la infraes
 
 Mediante una pinza amperimétrica se mide el consumo eléctrico de los equipos de la infraestructura. Con los valores obtenidos se calcula la potencia necesaria del Sistema de Alimentación Ininterrumpida (SAI), seleccionando un modelo de 4500 VA para garantizar la continuidad del servicio.
 
-<img width="768" height="429" alt="image" src="https://github.com/user-attachments/assets/fbf514d0-3b21-4a65-9f5d-3da72f0c6985" />
+<img width="656" height="351" alt="image" src="https://github.com/user-attachments/assets/fbf514d0-3b21-4a65-9f5d-3da72f0c6985" />
 
 ---
 
@@ -109,7 +109,7 @@ Mediante una pinza amperimétrica se mide el consumo eléctrico de los equipos d
 
 Se configura Windows Server Backup para realizar copias de seguridad automáticas en un servidor de respaldo siguiendo una planificación semanal basada en copias completas, incrementales y diferenciales.
 
-<img width="728" height="294" alt="image" src="https://github.com/user-attachments/assets/bb363e80-e920-4765-b18b-1103ed19f363" />
+<img width="656" height="351" alt="image" src="https://github.com/user-attachments/assets/bb363e80-e920-4765-b18b-1103ed19f363" />
 
 ---
 
