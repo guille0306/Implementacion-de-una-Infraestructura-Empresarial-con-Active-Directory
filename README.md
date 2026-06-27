@@ -101,7 +101,6 @@ Se instala Windows Admin Center para administrar de forma remota toda la infraes
 
 Mediante una pinza amperimétrica se mide el consumo eléctrico de los equipos de la infraestructura. Con los valores obtenidos se calcula la potencia necesaria del Sistema de Alimentación Ininterrumpida (SAI), seleccionando un modelo de 4500 VA para garantizar la continuidad del servicio.
 
-<img width="656" height="351" alt="image" src="https://github.com/user-attachments/assets/fbf514d0-3b21-4a65-9f5d-3da72f0c6985" />
 
 ---
 
