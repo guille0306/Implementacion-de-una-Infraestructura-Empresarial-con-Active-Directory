@@ -93,7 +93,8 @@ Se instala IIS junto con Application Request Routing (ARR) para configurar un pr
 
 Se instala Windows Admin Center para administrar de forma remota toda la infraestructura, permitiendo supervisar servidores, ejecutar scripts de PowerShell y gestionar usuarios desde una única interfaz.
 
-<img width="656" height="351" alt="image" src="https://github.com/user-attachments/assets/ff4d3971-4b06-47d9-a446-c4666068e893" />
+<img width="656" height="351" alt="image" src="https://github.com/user-attachments/assets/fe5afb5b-3b31-4d2b-8254-c3ff2d97dd19" />
+
 
 ---
 
